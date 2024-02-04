@@ -8,7 +8,7 @@ function Hero() {
       <div className="md:w-1/2 w-full leading-6 xl:mt-0 mt-10">
         <h1 className="xl:text-5xl md:text-3xl font-semibold md:text-start text-center text-2xl text-white mb-3">
           <span className="leading-snug">
-            I am <br /> Rohit Mandaliya
+            I am <br /> Rohit Boom
           </span>
         </h1>
         <p className="text-white text-center flex xl:text-4xl md:text-2xl text-xl font-semibold">
