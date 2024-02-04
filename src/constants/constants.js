@@ -126,5 +126,28 @@ export const expTechnologies = [
 ];
 
 export const githubProjects = [
-
+    {
+        id: 1,
+        name: "Testify",
+        desc: "This project is about Project Management System for QA / Testers which will raise and manage bugs or tickets by project and its folders.",
+        image: "../src/images/projects/testify.png",
+        link: "https://github.com/rohit-mandaliya/testify",
+        tools: ['Filament Admin Panel', 'Laravel', 'PHP', 'MySQL']
+    },
+    {
+        id: 2,
+        name: "Portfolio",
+        desc: "This project is about my portfolio which is made for showcase my skills to professional level and to give sparkling impression to myself.",
+        image: "../src/images/projects/portfolio.png",
+        link: "https://github.com/rohit-mandaliya/react-portfolio",
+        tools: ['React Js', 'Tailwind', 'JavaScript']
+    },
+    {
+        id: 3,
+        name: "ShoeSmasher",
+        desc: "This is an E-commerce demo project for a footwear product selling with both frontend and backend side.",
+        image: "../src/images/projects/shoe-smasher.png",
+        link: "https://github.com/rohit-mandaliya/shoe-smasher",
+        tools: ['Laravel', 'Frest Template', 'PHP', 'JavaScript']
+    },
 ];
