@@ -43,7 +43,7 @@ function Hero() {
           </span>
         </p>
         <a
-          href="../src/rohit-mandaliya-resume.pdf"
+          href="/rohit-mandaliya-resume.pdf"
           download="resume.pdf"
           className="group text-pink-500 text-center flex w-fit p-3 px-6 border border-pink-500 rounded-lg cursor-pointer duration-500"
         >
