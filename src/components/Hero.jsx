@@ -54,7 +54,7 @@ function Hero() {
 
       <div className="md:w-1/2 w-full flex justify-center mt-4 mb:mb-0">
         <img
-          src="./src/images/profile.png"
+          src="/images/profile.png"
           alt="Profile Pic"
           className="rounded-3xl md:h-96 w-70 h-64 shadow-sm shadow-purple-500"
         />

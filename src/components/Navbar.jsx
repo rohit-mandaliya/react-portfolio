@@ -35,7 +35,7 @@ function Navbar() {
         style={{ backgroundColor: "rgb(21, 2, 30)" }}
       >
         <div className="mt-3">
-          <img src="./src/images/logo.png" width={120} />
+          <img src="/images/logo.png" width={120} />
         </div>
         <div className="text-lg text-white">
           <ul className="md:flex hidden">
