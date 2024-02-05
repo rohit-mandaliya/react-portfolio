@@ -56,7 +56,7 @@ function Navbar() {
             ))}
           </ul>
 
-          <div className="icon">
+          <div className="icon text-end">
             {!responsive ? (
               <FaBars
                 size={20}
@@ -75,10 +75,10 @@ function Navbar() {
         <ul
           className={
             responsive
-              ? "flex-col md:hidden absolute w-full mt-[70px] h-fit inset-1 backdrop-blur-xl items-center text-white justify-center"
-              : "hidden"
+              ? "flex-col md:hidden absolute w-full mt-[70px] duration-500 h-fit inset-1 items-center text-white justify-center"
+              : "mt-[-400px] opacity-0 duration-1000 flex-col md:hidden absolute w-full h-fit inset-1"
           }
-          // style={{ backgroundColor: "rgb(21, 2, 30)" }}
+          style={{ backgroundColor: "rgb(21, 2, 30)" }}
         >
           {links.map((link) => (
             <li
