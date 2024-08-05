@@ -8,7 +8,7 @@ function Contact() {
       <div className="text-center">
         <p className="md:text-5xl text-3xl text-white">Contact Me</p>
         <p className="text-gray-500 mt-5">
-          ( You can contact me by this platforms )
+          ( You can contact me through this platforms )
         </p>
       </div>
       <div className="flex justify-center mt-12 gap-12">
