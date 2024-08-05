@@ -42,10 +42,10 @@ function Navbar() {
             {links.map((link) => (
               <li
                 key={link.id}
-                className="px-5 hover:text-purple-500 transition-all duration-300"
+                className="px-5 hover:text-pink-500 transition-all duration-300"
               >
                 <Link
-                  className="cursor-pointer active:text-purple-500"
+                  className="cursor-pointer active:text-pink-500"
                   to={link.href}
                   smooth
                   duration={500}
