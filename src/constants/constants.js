@@ -126,14 +126,14 @@ export const expTechnologies = [
 ];
 
 export const githubProjects = [
-    {
-        id: 1,
-        name: "Testify",
-        desc: "This project is about Project Management System for QA / Testers which will raise and manage bugs or tickets by project and its folders.",
-        image: "/images/projects/testify.png",
-        link: "https://github.com/rohit-mandaliya/testify",
-        tools: ['Filament Admin Panel', 'Laravel', 'PHP', 'MySQL']
-    },
+    // {
+    //     id: 1,
+    //     name: "Testify",
+    //     desc: "This project is about Project Management System for QA / Testers which will raise and manage bugs or tickets by project and its folders.",
+    //     image: "/images/projects/testify.png",
+    //     link: "https://github.com/rohit-mandaliya/testify",
+    //     tools: ['Filament Admin Panel', 'Laravel', 'PHP', 'MySQL']
+    // },
     {
         id: 2,
         name: "Portfolio",
