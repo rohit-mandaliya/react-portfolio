@@ -21,11 +21,11 @@ function Navbar() {
       href: "projects",
       title: "Projects",
     },
-    // {
-    //   id: 4,
-    //   href: "contact",
-    //   title: "Contact",
-    // },
+    {
+      id: 4,
+      href: "contact",
+      title: "Contact",
+    },
   ]);
 
   return (
