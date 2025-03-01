@@ -2,7 +2,7 @@ export const expTechnologies = [
     {
         id: 1,
         name: "Laravel",
-        image: "https://laravel.com/img/logomark.min.svg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/255px-Laravel.svg.png",
         shadow: "shadow-red-500",
         text: "text-red-500",
     },
